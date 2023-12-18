@@ -1,0 +1,7 @@
+string season
+---
+string spring
+string summer
+string fall
+string winter
+string other
